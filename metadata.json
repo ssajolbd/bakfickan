@@ -1,0 +1,6 @@
+{
+  "name": "BAKFICKAN",
+  "description": "Modern Scandinavian seafood restaurant and oyster bar at Stora Torget in Visby, Gotland. Serving fresh Baltic seafood with timeless hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
